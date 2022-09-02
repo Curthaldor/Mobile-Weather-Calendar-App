@@ -3,6 +3,6 @@ This was initially a final project for CS 492 Mobile Software Development W2022,
 
 The purpose of this app alpha was first an assignment to turn in for CS492 and second, a demonstration on how this app might look when implemented although the final high fidelity Figma was not fully implemented due to time and skill constraints. The high fidelity Figma (link found in the Box) should be seen as the official app UI, and a more official app created should use that.
 
-This code is a basic framework using kotlin, java, html, and xml. 
+![](https://raw.githubusercontent.com/Curthaldor/Mobile-Weather-Calendar-App/main/showcase1.gif)
 
-![Alt Text](https://github.com/Curthaldor/Mobile-Weather-Calendar-App/blob/main/showcase1.gif)
+This code is a basic framework using kotlin, java, html, and xml. 
