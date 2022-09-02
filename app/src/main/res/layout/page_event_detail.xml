@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp"
+    tools:context=".ui.EventDetailsFragment">
+
+
+<!--    background image (Behind)-->
+<!--    icon bottom left (top of type)-->
+<!--    type bottom left (bottom of icon)-->
+<!--    attend_count bottom right (left of attend_icon)-->
+<!--    attend_icon bottom right (right of attend_count)-->
+
+<!--    location top left (left of time)(parent under background image)-->
+<!--    time top right (right of location)-->
+<!--    description (under location)(top of register_btn) [scrollable?]-->
+<!--    register_btn bottom center (bottom of description)-->
+
+
+    <TextView
+        android:id="@+id/tv_event_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Event Title"/>
+    <TextView
+        android:id="@+id/tv_event_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Event Description"/>
+    <TextView
+        android:id="@+id/tv_event_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Event Location"/>
+    <TextView
+        android:id="@+id/tv_event_start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Event Start"/>
+    <TextView
+        android:id="@+id/tv_event_end"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Event End"/>
+f
+<!--    <TextView-->
+<!--        android:id="@+id/tv_repo_name"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:textAppearance="?attr/textAppearanceHeadline3"-->
+<!--        android:layout_marginBottom="4dp"/>-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/tv_repo_stars"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:textAppearance="?attr/textAppearanceHeadline4"-->
+<!--        app:drawableStartCompat="@drawable/ic_baseline_star_outline_36"-->
+<!--        android:drawablePadding="8dp"/>-->
+
+<!--    <TextView-->
+<!--        android:id="@+id/tv_repo_description"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:textAppearance="?attr/textAppearanceBody1"/>-->
+
+</LinearLayout>
