@@ -5,4 +5,4 @@ The purpose of this app alpha was first an assignment to turn in for CS492 and s
 
 This code is a basic framework using kotlin, java, html, and xml. 
 
-![](https://github.com/osu-cs492-w22/final-project-final-project-team-19/blob/main/showcase1.gif)
+![](https://github.com/Curthaldor/Mobile-Weather-Calendar-App/blob/main/showcase1.gif)
